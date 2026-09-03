@@ -1,0 +1,12 @@
+Insider Ultra Desktop 1.0.34 — canal controlado de pre-lancamento
+
+Source commit: 97ae570c7d66f53144ef9a5f4c1c1c1717aee280
+Installer SHA-256: C0B025D73C3C5853D3E8251A102851CAA3C92698D415AD18A46D1F2032F39DB2
+Updater signature file SHA-256: 5294F131353FE61EBF9773DC4D3E54F377914CEBAD91AE6BAB29D6B8CB06845D
+Installed payload SHA-256: 4FD89A49D84E04BACDA4C922370836799843FC8FE9006CBB6196D956F2546FBE
+
+Minisign/updater signature: verified.
+Native DPI validation: 100% passed; 150% passed.
+Authenticode: not signed. Windows may identify the publisher as unknown.
+Automatic updater manifest: intentionally unchanged at 1.0.33.
+No financial order was executed during validation.
