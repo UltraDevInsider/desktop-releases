@@ -1,3 +1,3 @@
-Web hash: 98395b6546a52c69f0658bd99cca518b4e0187ac
-Desktop version: 1.0.49
+Web hash: 68a4c6acfa32b9d9da74eab146673987df1d2226
+Desktop version: 1.0.51
 
