@@ -1,11 +1,11 @@
 {
-  "version": "1.0.61",
-  "notes": "Desktop sincronizado automaticamente ao deploy Web 742f12f1a4718b15d5f058fe51462b1a68825a81",
-  "pub_date": "2026-10-01T02:22:48.204Z",
+  "version": "1.0.62",
+  "notes": "Desktop sincronizado automaticamente ao deploy Web 4e4c7f16e6c68608e9237375b8f31d052d05b287",
+  "pub_date": "2026-10-01T12:21:22.626Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZVZpcU96SlliTHFnV2RDU1IwSFFUN05LQ3o4SFRTdGUzNjloSHA1UTVIaDRLWVpWdGM1V2dnRlJ2ckFoY05UbWNXb21yYVBFcU01WVN1ZWlCQktsWXVhd2JCZDR4cmd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwODE5OTY0CWZpbGU6SW5zaWRlciBVbHRyYV8xLjAuNjFfeDY0LXNldHVwLmV4ZQpMei9OL0NTcXMyMnZRa3d1MG1KbitjOUszeVp2VXY4aFNFR2Q0LzRHQWVPU25sWVkrcDNIZ3NDRzBJUHNEMDFJU0lObUR1akNKdGo0YmJFY2t6cXlEUT09Cg==",
-      "url": "https://raw.githubusercontent.com/UltraDevInsider/desktop-releases/2324e04b05775be0b6d1c50cdffd27ea0b9b62fb/Insider-Ultra-x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZVZpcU96SlliTHYvdW42MHlnUW9YR2k2dUVaVG9HOFFmckxGU3F6VDV3NWtFWCtPSjBpNUkyVVBuWjh5ajFLWXNzRGx3WEpJVjZFT3NVbHRUSHp6cGNCTzBRUWpNMGdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwODU3MjYwCWZpbGU6SW5zaWRlciBVbHRyYV8xLjAuNjJfeDY0LXNldHVwLmV4ZQovZzBpSkExK21aRThmOUJLNFZoZDg4dEVQdmdCTnJ2YysxS0lYNmxpNFI5c2J3ZnFNWjl4SW15anUzb0lOUFhMeWlTY25PSkRoY3RYTTJ3eXdMQkFEUT09Cg==",
+      "url": "https://raw.githubusercontent.com/UltraDevInsider/desktop-releases/045bf19315d640843354e4f647bfc00860c1d90c/Insider-Ultra-x64-setup.exe"
     }
   }
 }
