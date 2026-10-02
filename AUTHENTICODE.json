@@ -4,7 +4,7 @@
     "Publisher": "INSIDER INVEST SOLUCOES EDUCACIONAIS E FINANCEIRAS LTDA",
     "SignerThumbprint": "908746125C08D7C248EFAE2C86CC77E6E2189D75",
     "TimestampSubject": "CN=DigiCert SHA256 RSA4096 Timestamp Responder 2026 1, O=\"DigiCert, Inc.\", C=US",
-    "Sha256": "998dcee9bb2d9f42c5576c006087ee5a9085a5dfd4f5ab6cb551efb4e9c35f29",
+    "Sha256": "862fa096adc7f5d7183aeeb2ab2fdf3cdcd938576c4afa026f68983a04e048e8",
     "Verification": "signtool verify /pa /all /v: OK"
   },
   {
@@ -12,15 +12,15 @@
     "Publisher": "INSIDER INVEST SOLUCOES EDUCACIONAIS E FINANCEIRAS LTDA",
     "SignerThumbprint": "908746125C08D7C248EFAE2C86CC77E6E2189D75",
     "TimestampSubject": "CN=DigiCert SHA256 RSA4096 Timestamp Responder 2026 1, O=\"DigiCert, Inc.\", C=US",
-    "Sha256": "6af466bba6434f6d67cc684d3e3c25e9f2a1dc5a9a2083c0ba9a803b0c742e01",
+    "Sha256": "4b24c2eed35ca8761b3bae04ddd6e71d5e1dc93757abb45ce40390246313a235",
     "Verification": "signtool verify /pa /all /v: OK"
   },
   {
-    "File": "Insider Ultra_1.0.61_x64-setup.exe",
+    "File": "Insider Ultra_1.0.63_x64-setup.exe",
     "Publisher": "INSIDER INVEST SOLUCOES EDUCACIONAIS E FINANCEIRAS LTDA",
     "SignerThumbprint": "908746125C08D7C248EFAE2C86CC77E6E2189D75",
     "TimestampSubject": "CN=DigiCert SHA256 RSA4096 Timestamp Responder 2026 1, O=\"DigiCert, Inc.\", C=US",
-    "Sha256": "16167974488584cc4519c2850b19b948ad6dbf6d2037e3942ccec1d7a9a09152",
+    "Sha256": "b7983a72efb982822c566840590672b5a5e55e97db56810f26fec84019d15033",
     "Verification": "signtool verify /pa /all /v: OK"
   }
 ]
