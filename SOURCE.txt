@@ -1,7 +1,8 @@
-Web frontend hash: d985f5ef85bc1d094e5c278b8c7f914c6d6fdb0b
+Web source commit: 7e1e3f79c6d6f1cbe821b8fc6ed243879378e552
 Web interface version: 1.1.18
-Desktop version: 1.0.65
-Desktop build commit: 16942f7fda7cdfda8acc58ffc149eed4be937e65
-Authenticode: not signed; temporary release explicitly authorized by owner
-Updater signature: verified with existing production public key
-Installer SHA256: 9068ccf413d5813d0aa46dc6a32a76cb2b60099e43283e41ee90310b7cfe9c15
+Desktop version: 1.0.66
+Desktop build commit: 8f8b5a4aa3d3b59bac557df1f8b249f75cdf56ab
+Authenticode: Valid; INSIDER INVEST SOLUCOES EDUCACIONAIS E FINANCEIRAS LTDA; RFC3161 timestamp verified
+Updater signature: verified with existing production public key; altered digest rejected
+Installer SHA256: 2c5b4f826d0184ee92bbc05b1c55e9d343e39f7c3ab1cbb780529341c0adec26
+Change: shared candle history and delta transfers; preserves maintenance-notice release
