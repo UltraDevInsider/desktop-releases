@@ -1,7 +1,7 @@
-Web frontend hash: 6a695ab5ff0d8e7e3227dcf7c96ee4c05e26139a
-Web interface version: 1.1.17
-Desktop version: 1.0.64
-Desktop build commit: dd3db5f9df5c87fa6904ac455e6f6c496bff3cce
-Authenticode publisher: INSIDER INVEST SOLUCOES EDUCACIONAIS E FINANCEIRAS LTDA
-Certificate thumbprint: 908746125C08D7C248EFAE2C86CC77E6E2189D75
-Installer SHA256: 3a0a003917fcd1b101909ce78fc7d1d5ea9d67739cbcd850e9569986776fbaa2
+Web frontend hash: d985f5ef85bc1d094e5c278b8c7f914c6d6fdb0b
+Web interface version: 1.1.18
+Desktop version: 1.0.65
+Desktop build commit: 16942f7fda7cdfda8acc58ffc149eed4be937e65
+Authenticode: not signed; temporary release explicitly authorized by owner
+Updater signature: verified with existing production public key
+Installer SHA256: 9068ccf413d5813d0aa46dc6a32a76cb2b60099e43283e41ee90310b7cfe9c15
