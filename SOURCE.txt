@@ -1,8 +1,8 @@
-Web source commit: 1041dc75434d1b2c91034522131d3781526ff8eb
+Web source commit: 15cf735a (producao) + 9fc45b44 (correcao do desktop)
 Web interface version: 1.1.18
-Desktop version: 1.0.67
-Desktop build commit: e2dbe142 (1041dc75 + numero da versao)
+Desktop version: 1.0.68
+Desktop build commit: a5e3fc35 (9fc45b44 + numero da versao)
 Authenticode: Valid; INSIDER INVEST SOLUCOES EDUCACIONAIS E FINANCEIRAS LTDA; RFC3161 timestamp verified
 Updater signature: gerada com a chave de producao existente (identificador conferido)
-Installer SHA256: 17d436d3db64b91dff5e649dbfe788d91884d4293b592e875679fe19406a144d
-Change: grafico solto em nova janela corrigido; a atualizacao passa a perguntar agora ou depois; instalacao manual testada pela dona em 05/10/2026
+Installer SHA256: f74f65850154aabc62f308a2b6a85f714939de54c0c064672bf83ef640045e9e
+Change: o cliente entra mesmo quando o Windows recusa guardar o acesso; a instalacao nao e mais cancelada quando a Ponte para a Planilha nao registra; aviso de versao nova tambem na tela de entrada e procura a cada 5 minutos; volta rapida do grafico; instalacao manual testada pela dona em 05/10/2026
