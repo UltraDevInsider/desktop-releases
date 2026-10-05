@@ -1,8 +1,8 @@
-Web source commit: 7e1e3f79c6d6f1cbe821b8fc6ed243879378e552
+Web source commit: 1041dc75434d1b2c91034522131d3781526ff8eb
 Web interface version: 1.1.18
-Desktop version: 1.0.66
-Desktop build commit: 8f8b5a4aa3d3b59bac557df1f8b249f75cdf56ab
+Desktop version: 1.0.67
+Desktop build commit: e2dbe142 (1041dc75 + numero da versao)
 Authenticode: Valid; INSIDER INVEST SOLUCOES EDUCACIONAIS E FINANCEIRAS LTDA; RFC3161 timestamp verified
-Updater signature: verified with existing production public key; altered digest rejected
-Installer SHA256: 2c5b4f826d0184ee92bbc05b1c55e9d343e39f7c3ab1cbb780529341c0adec26
-Change: shared candle history and delta transfers; preserves maintenance-notice release
+Updater signature: gerada com a chave de producao existente (identificador conferido)
+Installer SHA256: 17d436d3db64b91dff5e649dbfe788d91884d4293b592e875679fe19406a144d
+Change: grafico solto em nova janela corrigido; a atualizacao passa a perguntar agora ou depois; instalacao manual testada pela dona em 05/10/2026
