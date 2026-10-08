@@ -1,8 +1,7 @@
-Web source commit: 15cf735a (producao) + 9fc45b44 (correcao do desktop)
-Web interface version: 1.1.18
-Desktop version: 1.0.68
-Desktop build commit: a5e3fc35 (9fc45b44 + numero da versao)
-Authenticode: Valid; INSIDER INVEST SOLUCOES EDUCACIONAIS E FINANCEIRAS LTDA; RFC3161 timestamp verified
-Updater signature: gerada com a chave de producao existente (identificador conferido)
-Installer SHA256: f74f65850154aabc62f308a2b6a85f714939de54c0c064672bf83ef640045e9e
-Change: o cliente entra mesmo quando o Windows recusa guardar o acesso; a instalacao nao e mais cancelada quando a Ponte para a Planilha nao registra; aviso de versao nova tambem na tela de entrada e procura a cada 5 minutos; volta rapida do grafico; instalacao manual testada pela dona em 05/10/2026
+Web source commit: 6c9108433e5cb50a8966a957caee2bac4caa6956
+Desktop version: 1.0.69
+Desktop build commit: 6c910843
+Authenticode: Valid; INSIDER INVEST SOLUCOES EDUCACIONAIS E FINANCEIRAS LTDA; timestamp DigiCert SHA256 RSA4096 Timestamp Responder 2026 1
+Updater signature: gerada com a chave de producao existente
+Installer SHA256: 6a9fdb39265110d604ea7b16b41237ce5165cc93835062f16e90d0716c34198e
+Change: Painel de operacoes sem pedidos a cada tique; grafico do Bra50 e etiquetas em dolar como na Web; lista de contas completa.

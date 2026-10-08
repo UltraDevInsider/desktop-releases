@@ -1,11 +1,11 @@
 {
-  "version": "1.0.68",
-  "notes": "Correções de entrada no programa e de instalação, e gráfico mais rápido ao trocar de ativo.",
-  "pub_date": "2026-10-05T16:03:10.000Z",
+  "version": "1.0.69",
+  "notes": "Painel de operacoes sem pedidos a cada tique; grafico do Bra50 e etiquetas em dolar como na Web; lista de contas completa.",
+  "pub_date": "2026-10-08T14:53:02.000Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZVZpcU96SlliTG1DTXBENmZPL2NlUEc3MVRHdjVXUURrc0cyc0N1eXBSN3lYeTdXejFKajVLT0dYa25kdnV1VUZRTm1MU1Eya05YbmtxTTA5aVNLUlF2WXZVSHJxN3drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjE1NjE2CWZpbGU6SW5zaWRlciBVbHRyYV8xLjAuNjhfeDY0LXNldHVwLmV4ZQpXdmx0UldFeDI4eG43TU9LV2VhaHhPRGlJYk82dDRHd29va0w0NVZLeityVGJDdDI4akhGYjFJaWdHdmdMcGNwNHRkQWxaUG80MytoQm9WS0lpN1pEUT09Cg==",
-      "url": "https://raw.githubusercontent.com/UltraDevInsider/desktop-releases/59df3d2e4fa2669b63f3b51ecd630b94edb9155b/Insider-Ultra-x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZVZpcU96SlliTGpqQlJTQy9mZ2ZmWUViVkhyK1hlQzI3YTB3anBBWUlYcitqanQ0bE5ocHFyL2RFTTFydmRjb2Qwd1czNjB1cjlucEdGOFZSOWdFMmd0K04rZGdHOEFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDcwOTEwCWZpbGU6SW5zaWRlciBVbHRyYV8xLjAuNjlfeDY0LXNldHVwLmV4ZQo1NXBXSndlQitHcnlFZjBzanZKd2Q0ejlQVXBXMlZRdGxoRFQvYnB3QmVjZVM5MHM5NU5nejFUSHhaWFczMjFWZnd2YW1HNWhObm5MSkRVNVJ5Mk5BZz09Cg==",
+      "url": "https://raw.githubusercontent.com/UltraDevInsider/desktop-releases/2efb86d019bae32e6bbb60f0a2cb9cf056e77cbf/Insider-Ultra-x64-setup.exe"
     }
   }
 }
