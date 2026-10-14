@@ -1,11 +1,11 @@
 {
-  "version": "1.0.70",
-  "notes": "Painel de operacoes sem pedidos a cada tique; grafico do Bra50 e etiquetas em dolar como na Web; lista de contas completa.",
-  "pub_date": "2026-10-12T11:48:58.000Z",
+  "version": "1.0.71",
+  "notes": "Aviso fixo de versao nova ate atualizar; abas dos ativos podem ser arrastadas para mudar a ordem; volume em verde e vermelho com cores faceis de trocar; Contador de Candles; resultado aberto antes do resultado do dia na boleta; atalho semanal no grafico (1S, 1W).",
+  "pub_date": "2026-10-14T07:27:49.000Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZVZpcU96SlliTHU4enVDcUhGeHFEdVQ3UzJHbkR6YjNNRzl5YmNyWVVac1NhODJpaTRXYk0zOTdYSEVBbmFWUzVOWVp5ZmZtY0RDUGt3Q3BCcXdGTXF6WS9XKzBtSFFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxODA1NjYzCWZpbGU6SW5zaWRlciBVbHRyYV8xLjAuNzBfeDY0LXNldHVwLmV4ZQoybGFFV28vRUZxQXo3eVA2dEtrWFhOZ3EzN0tJd3BRaWc5MVMvcGh6b25SblZEU2lhSlZKU1dvQnc1UjR3V0hqN2tud0l1M0JYOFlvcjZ6Rmd3Y1hDdz09Cg==",
-      "url": "https://raw.githubusercontent.com/UltraDevInsider/desktop-releases/6e5f98f8202a7bebc6ff35f94cca4160e2f941f1/Insider-Ultra-x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZVZpcU96SlliTGtlWVZNQTZUQndaUElSaytHR2lzS2krN2prWERONHkzN2k1eW0yRkpUZUZHZjZRRmhScXFhWVJIZEthd2FkRmpxZFptSkRTanI4SHJHRmF3Um1PU2dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxOTYyNzkxCWZpbGU6SW5zaWRlciBVbHRyYV8xLjAuNzFfeDY0LXNldHVwLmV4ZQpHRkpDa0NEM1Z4YmQraXFHMkVzc002WXZqNHhPRnFtUWs0akpDYjVSY1FkdGJkT25mWlFmUG5yd3BkNnhTUkJzVFNiUXNFb2FMYUJTbFR5UURmVHZEUT09Cg==",
+      "url": "https://raw.githubusercontent.com/UltraDevInsider/desktop-releases/dbaed39bb122442e49a69f5ae404e66e4d250bea/Insider-Ultra-x64-setup.exe"
     }
   }
 }
