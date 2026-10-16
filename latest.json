@@ -1,11 +1,11 @@
 {
-  "version": "1.0.77",
-  "notes": "Painel de operacoes sem pedidos a cada tique; grafico do Bra50 e etiquetas em dolar como na Web; lista de contas completa.",
-  "pub_date": "2026-10-15T19:07:46.000Z",
+  "version": "1.0.78",
+  "notes": "Conex\u00e3o morta sempre trocada, inclusive com o computador ocupado; volta para a aba sem som de reconex\u00e3o.",
+  "pub_date": "2026-10-16T12:13:50.000Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZVZpcU96SlliTHFDemFnNitVdU82K25QTmltSjY4RGlnaUNOemorb2RmS0VQcVllZGlDRG54MXFudWdJVEFmS3pqOUZPSjRaR1FBL3QvN1AzVDQrdmo5N2JUQ0pJTmdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMDkxMjQ1CWZpbGU6SW5zaWRlciBVbHRyYV8xLjAuNzdfeDY0LXNldHVwLmV4ZQpyL05wNW5QbWxDc1hiMG1COGNEdXErbjM1ZFVLUVpQUnlKaXdOK1RZZ05BY1U1MTRaQWg4d2o5aVpMQUFDbmJWN0h0L3l5dTBZRWJyQXJmSld6L0NCUT09Cg==",
-      "url": "https://raw.githubusercontent.com/UltraDevInsider/desktop-releases/a6371dde37bda2fae9bcad345cc75ef64f71b0aa/Insider-Ultra-x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZVZpcU96SlliTHV3MEhRWitSMEFjZlM1WnZsMWhxTWhkSkNVbThHcjJYbU5ic2UzYWNNdktNeTJ3RkZTWHA0TW1mcE9YVWpBTnRVYkRhSmxHYVNUUWdReklia25OZGdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTUyNDk3CWZpbGU6SW5zaWRlciBVbHRyYV8xLjAuNzhfeDY0LXNldHVwLmV4ZQpYOWJJaXNxNjdQMFVWMkh4UytkajNJQkM0ck1FRkxLTmlUYTYrVFgzaXQ3RDJzUS8xU2ViajIvU1Z5ZC9MNldHRWRTQ3UvcjJFdCtpV0F3MWR5QndCZz09Cg==",
+      "url": "https://raw.githubusercontent.com/UltraDevInsider/desktop-releases/fe3ee3e6999bac9e0d48d0b5e9d71aa1f39873c1/Insider-Ultra-x64-setup.exe"
     }
   }
 }
