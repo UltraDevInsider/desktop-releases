@@ -1,11 +1,11 @@
 {
-  "version": "1.0.78",
-  "notes": "Conex\u00e3o morta sempre trocada, inclusive com o computador ocupado; volta para a aba sem som de reconex\u00e3o.",
-  "pub_date": "2026-10-16T12:13:50.000Z",
+  "version": "1.0.79",
+  "notes": "Lista de ordens mais leve ao reconectar; avisos certos depois que o motor reinicia; boleta com fra\u00e7\u00f5es; painel de opera\u00e7\u00f5es em dia.",
+  "pub_date": "2026-10-19T09:15:35.000Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZVZpcU96SlliTHV3MEhRWitSMEFjZlM1WnZsMWhxTWhkSkNVbThHcjJYbU5ic2UzYWNNdktNeTJ3RkZTWHA0TW1mcE9YVWpBTnRVYkRhSmxHYVNUUWdReklia25OZGdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTUyNDk3CWZpbGU6SW5zaWRlciBVbHRyYV8xLjAuNzhfeDY0LXNldHVwLmV4ZQpYOWJJaXNxNjdQMFVWMkh4UytkajNJQkM0ck1FRkxLTmlUYTYrVFgzaXQ3RDJzUS8xU2ViajIvU1Z5ZC9MNldHRWRTQ3UvcjJFdCtpV0F3MWR5QndCZz09Cg==",
-      "url": "https://raw.githubusercontent.com/UltraDevInsider/desktop-releases/fe3ee3e6999bac9e0d48d0b5e9d71aa1f39873c1/Insider-Ultra-x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZVZpcU96SlliTGp1anRtMDJWU0VNSTZLeisvMW9iZWhRSUt1L0d5NFNQYW1oZ3hWYlcvNDl4VGdEaG5LYnRTMkhWK1NjeXRFbHhTWDRzbG96M3RucVY0SFZMR0NmelFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNDAwNTExCWZpbGU6SW5zaWRlciBVbHRyYV8xLjAuNzlfeDY0LXNldHVwLmV4ZQpEVTBubkMvcXF0ZjVBdU04TTRzWkliMUVLM0RFU0FKeWxBZitVVkFyVnJNSGVvVFpacktRaDFTTytQWThyZVdLbzlzR0Rrb1dTYysyTCtETUFzemtCdz09Cg==",
+      "url": "https://raw.githubusercontent.com/UltraDevInsider/desktop-releases/a07c3dab13364e500d1ed2ca837661e1f69a0f39/Insider-Ultra-x64-setup.exe"
     }
   }
 }

@@ -1,7 +1,7 @@
-Web source commit: 2dd2f72e910478dd38fdd84a7d34952ae9d55e51
-Desktop version: 1.0.78
-Desktop build commit: 2dd2f72e
+Web source commit: 3b8ef788f0b0937113012f97ebd4ade97e2f8570
+Desktop version: 1.0.79
+Desktop build commit: 3b8ef788
 Authenticode: Valid; INSIDER INVEST SOLUCOES EDUCACIONAIS E FINANCEIRAS LTDA; timestamp DigiCert SHA256 RSA4096 Timestamp Responder 2026 1
 Updater signature: gerada com a chave de producao existente
-Installer SHA256: eb29436652d7ea7b5cfc373ab9ae816a4ef80094a85c18ed8a03fee60130462a
-Change: Conexão morta sempre trocada, inclusive com o computador ocupado; volta para a aba sem som de reconexão.
+Installer SHA256: 5c8c0a376622f9f1bc4b77a9b57917eb7627aecc3f43f82d2d292af63b1dafa5
+Change: Lista de ordens mais leve ao reconectar; avisos certos depois que o motor reinicia; boleta com frações; painel de operações em dia.
