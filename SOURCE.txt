@@ -1,7 +1,7 @@
-Web source commit: 3b8ef788f0b0937113012f97ebd4ade97e2f8570
-Desktop version: 1.0.79
-Desktop build commit: 3b8ef788
+Web source commit: fb565ac6030ddf7a449a05101f521bbfe3b20fa8
+Desktop version: 1.0.80
+Desktop build commit: fb565ac6
 Authenticode: Valid; INSIDER INVEST SOLUCOES EDUCACIONAIS E FINANCEIRAS LTDA; timestamp DigiCert SHA256 RSA4096 Timestamp Responder 2026 1
 Updater signature: gerada com a chave de producao existente
-Installer SHA256: 5c8c0a376622f9f1bc4b77a9b57917eb7627aecc3f43f82d2d292af63b1dafa5
-Change: Lista de ordens mais leve ao reconectar; avisos certos depois que o motor reinicia; boleta com frações; painel de operações em dia.
+Installer SHA256: 7a69deac94db62d5573bdaa67c69c4a3298f5125108e778642eb9eb51958db1a
+Change: Ping na barra; zoom do gráfico que fica ao trocar de ativo e de tempo; contador de velas por dia, semana, mês e ano; volume da vela ao vivo; gráfico mais fluido.
