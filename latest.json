@@ -1,11 +1,11 @@
 {
-  "version": "1.0.82",
-  "notes": "Ultra 1.0.82: lote fracionado com stop e alvo, mensagens em portugu\u00eas, c\u00e2mbio ao vivo, gr\u00e1fico mais fluido, troca de tempo gr\u00e1fico na hora e copiar desenho com Ctrl.",
-  "pub_date": "2026-10-21T09:28:53.000Z",
+  "version": "1.0.84",
+  "notes": "Ultra 1.0.84: lista de cota\u00e7\u00f5es como a Observa\u00e7\u00e3o do Mercado do MT5, troca de tempo gr\u00e1fico mais fluida, atalhos de teclado com nome inteiro e tempo gr\u00e1fico numa tecla, op\u00e7\u00e3o de esconder a descri\u00e7\u00e3o das ordens.",
+  "pub_date": "2026-10-21T20:44:43.000Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZVZpcU96SlliTHUzaTEzMk51T0E0c1p5bDUxOUluZkUxMmcvWFMwYjlWWTFJTnpRZlcrUmtweWp5VHFvMzJ6SEtncVFuWTEzSVdYVHA3RjYreGJZbGF6cjl4VmZ0Y1E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTcyNzU0CWZpbGU6SW5zaWRlciBVbHRyYV8xLjAuODJfeDY0LXNldHVwLmV4ZQppbTRWd3RPMkFrRzVSTHZkVm5JSFB0OHpkV0hVMXhWRXdwbWp0YmNhclpSRWtDbHRYR1hiSCswenJDNmYxYVFXai82aG5LRmpGSDVqazFicnIxRVlCZz09Cg==",
-      "url": "https://raw.githubusercontent.com/UltraDevInsider/desktop-releases/e6de408d7e875a7402ee09171f4cafda26cc8445/Insider-Ultra-x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZVZpcU96SlliTHQxQk8wb0ZHK0o0eGNoZndBaU9OTklPMWh5YjN0MGw4MzFESHh0c3dzdDJPYjQzQzk1UEZtWmxUbnJNVWYwNkQvbEh2Y0MyYXkyd2FiVUFDb2NsSVFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjE1MTQ1CWZpbGU6SW5zaWRlciBVbHRyYV8xLjAuODRfeDY0LXNldHVwLmV4ZQpZbkpJRHZmdzNpVVVKTVFRTDMvY1B5SmhwcGRjbTVuM2ZNRk1qWThxeVNSMEZycW1IM0owRitFS2VBNE9vWlM4Smk2YXo3THplbERUYkFBU1dxT3JDZz09Cg==",
+      "url": "https://raw.githubusercontent.com/UltraDevInsider/desktop-releases/e33926a23845d4a14471022b944d659666b71c94/Insider-Ultra-x64-setup.exe"
     }
   }
 }

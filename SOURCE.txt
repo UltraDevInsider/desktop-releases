@@ -1,7 +1,7 @@
-Web source commit: 7ef88dc606807c8b5f5f28410437e8a0f22a3cae
-Desktop version: 1.0.82
-Desktop build commit: 7ef88dc6
+Web source commit: 85b35688b910df6125a1fe2f911ba207b7d926b9
+Desktop version: 1.0.84
+Desktop build commit: 85b35688
 Authenticode: Valid; INSIDER INVEST SOLUCOES EDUCACIONAIS E FINANCEIRAS LTDA; timestamp DigiCert SHA256 RSA4096 Timestamp Responder 2026 1
 Updater signature: gerada com a chave de producao existente
-Installer SHA256: 208e0e4c8767264472bcdec6baaded2ee74ce72d33c9b8ea47d0eb2b3cb3d7a0
-Change: Ultra 1.0.82: lote fracionado com stop e alvo, mensagens em português, câmbio ao vivo, gráfico mais fluido, troca de tempo gráfico na hora e copiar desenho com Ctrl.
+Installer SHA256: aab2800fbabb02c1bbcaf612144692f31f8d4092851abca06a5d5950346f9f2d
+Change: Ultra 1.0.84: lista de cotações como a Observação do Mercado do MT5, troca de tempo gráfico mais fluida, atalhos de teclado com nome inteiro e tempo gráfico numa tecla, opção de esconder a descrição das ordens.
