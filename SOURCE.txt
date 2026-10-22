@@ -1,7 +1,7 @@
-Web source commit: 85b35688b910df6125a1fe2f911ba207b7d926b9
-Desktop version: 1.0.84
-Desktop build commit: 85b35688
+Web source commit: 4f356f515ba44b1967d6d789d732915d50ea7b46
+Desktop version: 1.0.85
+Desktop build commit: 4f356f51
 Authenticode: Valid; INSIDER INVEST SOLUCOES EDUCACIONAIS E FINANCEIRAS LTDA; timestamp DigiCert SHA256 RSA4096 Timestamp Responder 2026 1
 Updater signature: gerada com a chave de producao existente
-Installer SHA256: aab2800fbabb02c1bbcaf612144692f31f8d4092851abca06a5d5950346f9f2d
-Change: Ultra 1.0.84: lista de cotações como a Observação do Mercado do MT5, troca de tempo gráfico mais fluida, atalhos de teclado com nome inteiro e tempo gráfico numa tecla, opção de esconder a descrição das ordens.
+Installer SHA256: 2d9cb06342ac0908578cc79a459697a6a94c5379d8075527b4b33acd342916d6
+Change: Ultra 1.0.85: gráfico pelo preço de venda como no MT5, linha do preço de compra, conexão mais estável com a tela ocupada, ping sem picos falsos, aviso claro quando o mercado está parado.
