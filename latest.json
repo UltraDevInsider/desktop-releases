@@ -1,11 +1,11 @@
 {
-  "version": "1.0.86",
-  "notes": "Ultra 1.0.86: etiquetas do gr\u00e1fico mais limpas como no MT5, separador de per\u00edodo igual ao MT5, velas que n\u00e3o mudam de tamanho ao abrir o gr\u00e1fico, ordens confirmadas mais r\u00e1pido, aviso claro do motivo de uma queda de conex\u00e3o.",
-  "pub_date": "2026-10-22T15:59:09.000Z",
+  "version": "1.0.87",
+  "notes": "Ultra 1.0.87: o X da posi\u00e7\u00e3o no gr\u00e1fico zera sempre a posi\u00e7\u00e3o de verdade, o programa lembra seu e-mail e senha (Lembrar de mim), o calend\u00e1rio econ\u00f4mico guarda o filtro de moedas, Hong Kong abre \u00e0s 22:15 e o petr\u00f3leo passa ao contrato de dezembro.",
+  "pub_date": "2026-10-22T20:17:53.000Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZVZpcU96SlliTGozcjUxNWN3WUR1QzlJMGRnRkJVQWNQejU0MkRZc1FRSy9xdVVKU3d5ckd6eGt3bTlndkRLQkgva3VUQ2E3Z0ZoRy9lMTFCcWJ6cnFDeERUd24wNkFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjgyNTMwCWZpbGU6SW5zaWRlciBVbHRyYV8xLjAuODZfeDY0LXNldHVwLmV4ZQpxeDRmMlZ5Ym9mMkl3Qm81TDJJclVoQzRJY3hvZEwzMHdxSWFiVDF3emh1ZWZGVEVhRXhFdXBnMERTdDhsYy9aTVVxU00vWGt0Qk5YUlV3QW1ueXdEZz09Cg==",
-      "url": "https://raw.githubusercontent.com/UltraDevInsider/desktop-releases/4b24cd3d94b4eecc76682c251222757af4a3ad51/Insider-Ultra-x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZVZpcU96SlliTHQwdERqeDFRMHZxeEZHd2VPVlQrZWhkMXNXTE92TVBkcVo0MWRTeDY3UFpiV1B6ckpSK0cwK3lYMmlES1UxalpRcjBITEd2T3ptUmVjdzFIUGpWRGc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjk4OTI4CWZpbGU6SW5zaWRlciBVbHRyYV8xLjAuODdfeDY0LXNldHVwLmV4ZQpGWFVtSFBHNnE3UE5YTnViLzZJa24yblZCYnFPNWhXTWtZVnhhWDYxUS9QVzV0VC9XaEVlemZSQWR5VXdjd29HVkxIaUQxMGJIbUFMZnRNTkM1emxBdz09Cg==",
+      "url": "https://raw.githubusercontent.com/UltraDevInsider/desktop-releases/c48f90f4993ad9dd686db04eeb2edf7a0a4813bf/Insider-Ultra-x64-setup.exe"
     }
   }
 }

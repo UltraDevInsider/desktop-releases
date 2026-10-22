@@ -1,7 +1,7 @@
-Web source commit: 592f50392d701fbcd0167b1682dc75f5f24df0d9
-Desktop version: 1.0.86
-Desktop build commit: 592f5039
+Web source commit: 8b93a1530f59eaf281dcb80cf3163e97fdedffb8
+Desktop version: 1.0.87
+Desktop build commit: 8b93a153
 Authenticode: Valid; INSIDER INVEST SOLUCOES EDUCACIONAIS E FINANCEIRAS LTDA; timestamp DigiCert SHA256 RSA4096 Timestamp Responder 2026 1
 Updater signature: gerada com a chave de producao existente
-Installer SHA256: 018099e02d9080181959e74cd35a3f5d419c46e18786d100b7ad63ec72009e92
-Change: Ultra 1.0.86: etiquetas do gráfico mais limpas como no MT5, separador de período igual ao MT5, velas que não mudam de tamanho ao abrir o gráfico, ordens confirmadas mais rápido, aviso claro do motivo de uma queda de conexão.
+Installer SHA256: 5d5da3d6318253d2a2192f3f0051e588a0454590c6fb9e6fccd5434bf896da40
+Change: Ultra 1.0.87: o X da posição no gráfico zera sempre a posição de verdade, o programa lembra seu e-mail e senha (Lembrar de mim), o calendário econômico guarda o filtro de moedas, Hong Kong abre às 22:15 e o petróleo passa ao contrato de dezembro.
