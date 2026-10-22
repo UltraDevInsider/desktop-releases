@@ -1,7 +1,7 @@
-Web source commit: 4f356f515ba44b1967d6d789d732915d50ea7b46
-Desktop version: 1.0.85
-Desktop build commit: 4f356f51
+Web source commit: 592f50392d701fbcd0167b1682dc75f5f24df0d9
+Desktop version: 1.0.86
+Desktop build commit: 592f5039
 Authenticode: Valid; INSIDER INVEST SOLUCOES EDUCACIONAIS E FINANCEIRAS LTDA; timestamp DigiCert SHA256 RSA4096 Timestamp Responder 2026 1
 Updater signature: gerada com a chave de producao existente
-Installer SHA256: 2d9cb06342ac0908578cc79a459697a6a94c5379d8075527b4b33acd342916d6
-Change: Ultra 1.0.85: gráfico pelo preço de venda como no MT5, linha do preço de compra, conexão mais estável com a tela ocupada, ping sem picos falsos, aviso claro quando o mercado está parado.
+Installer SHA256: 018099e02d9080181959e74cd35a3f5d419c46e18786d100b7ad63ec72009e92
+Change: Ultra 1.0.86: etiquetas do gráfico mais limpas como no MT5, separador de período igual ao MT5, velas que não mudam de tamanho ao abrir o gráfico, ordens confirmadas mais rápido, aviso claro do motivo de uma queda de conexão.
