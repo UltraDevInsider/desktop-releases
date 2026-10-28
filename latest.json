@@ -1,11 +1,11 @@
 {
-  "version": "1.0.87",
-  "notes": "Ultra 1.0.87: o X da posi\u00e7\u00e3o no gr\u00e1fico zera sempre a posi\u00e7\u00e3o de verdade, o programa lembra seu e-mail e senha (Lembrar de mim), o calend\u00e1rio econ\u00f4mico guarda o filtro de moedas, Hong Kong abre \u00e0s 22:15 e o petr\u00f3leo passa ao contrato de dezembro.",
-  "pub_date": "2026-10-22T20:17:53.000Z",
+  "version": "1.0.88",
+  "notes": "Vers\u00e3o 1.0.88: tela nova (menus, Terminal Pro, boleta e grade novas, visual do gr\u00e1fico, Trader Life completo), vers\u00e3o para celular e corre\u00e7\u00f5es.",
+  "pub_date": "2026-10-28T09:40:43.000Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZVZpcU96SlliTHQwdERqeDFRMHZxeEZHd2VPVlQrZWhkMXNXTE92TVBkcVo0MWRTeDY3UFpiV1B6ckpSK0cwK3lYMmlES1UxalpRcjBITEd2T3ptUmVjdzFIUGpWRGc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjk4OTI4CWZpbGU6SW5zaWRlciBVbHRyYV8xLjAuODdfeDY0LXNldHVwLmV4ZQpGWFVtSFBHNnE3UE5YTnViLzZJa24yblZCYnFPNWhXTWtZVnhhWDYxUS9QVzV0VC9XaEVlemZSQWR5VXdjd29HVkxIaUQxMGJIbUFMZnRNTkM1emxBdz09Cg==",
-      "url": "https://raw.githubusercontent.com/UltraDevInsider/desktop-releases/c48f90f4993ad9dd686db04eeb2edf7a0a4813bf/Insider-Ultra-x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZVZpcU96SlliTG9QeTI5SnV3M2VUMmRmT1pVRTlNaG45eDU0R0taNlJIRUZ0Tm9sb2V5aHVQVUpWY01rTnNRUE9xK1RKa2piWDMzckM3a0g5SmFKS1Y4aFRKaklDR1FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTgwMzMzCWZpbGU6SW5zaWRlciBVbHRyYV8xLjAuODhfeDY0LXNldHVwLmV4ZQpOQW1qcDA3eTd1ZnRXNjJlQVNXN0RUVWRSZ0k5OXNUMzRtKzdNdjJYaWpsUC90QmpVdERFMnBvenJMRWZEdHJsNlU1MGFVUnowMzdqaXBrNmNUZkxDdz09Cg==",
+      "url": "https://raw.githubusercontent.com/UltraDevInsider/desktop-releases/5320857aac67bf83fbdf28868d4eab745cbc9f3f/Insider-Ultra-x64-setup.exe"
     }
   }
 }
