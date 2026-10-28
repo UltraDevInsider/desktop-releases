@@ -1,7 +1,7 @@
-Web source commit: f49d503e874570949e8468749b834c67d883e67b
-Desktop version: 1.0.88
-Desktop build commit: f49d503e
+Web source commit: 57e5f9c3e51f22bd7996d9b8f52f4c27cf1c1050
+Desktop version: 1.0.89
+Desktop build commit: 57e5f9c3
 Authenticode: Valid; INSIDER INVEST SOLUCOES EDUCACIONAIS E FINANCEIRAS LTDA; timestamp DigiCert SHA256 RSA4096 Timestamp Responder 2026 1
 Updater signature: gerada com a chave de producao existente
-Installer SHA256: c3f5e6777699f7fad40d25775b24abcd194a90fde957a7f92ef4813135366138
-Change: Versão 1.0.88: tela nova (menus, Terminal Pro, boleta e grade novas, visual do gráfico, Trader Life completo), versão para celular e correções.
+Installer SHA256: a7c952e13e9dfe1d3ecc74aab67656f2477bade1dca690cc3fea794d1ddbb52e
+Change: Versão 1.0.89: Terminal Pro com troca de conta numa janela, barra de estudos móvel, tema claro e escuro; cor da linha de preço; gráfico mais estável e menus que não ficam mais escondidos.

@@ -1,11 +1,11 @@
 {
-  "version": "1.0.88",
-  "notes": "Vers\u00e3o 1.0.88: tela nova (menus, Terminal Pro, boleta e grade novas, visual do gr\u00e1fico, Trader Life completo), vers\u00e3o para celular e corre\u00e7\u00f5es.",
-  "pub_date": "2026-10-28T09:40:43.000Z",
+  "version": "1.0.89",
+  "notes": "Vers\u00e3o 1.0.89: Terminal Pro com troca de conta numa janela, barra de estudos m\u00f3vel, tema claro e escuro; cor da linha de pre\u00e7o; gr\u00e1fico mais est\u00e1vel e menus que n\u00e3o ficam mais escondidos.",
+  "pub_date": "2026-10-28T15:59:27.000Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZVZpcU96SlliTG9QeTI5SnV3M2VUMmRmT1pVRTlNaG45eDU0R0taNlJIRUZ0Tm9sb2V5aHVQVUpWY01rTnNRUE9xK1RKa2piWDMzckM3a0g5SmFKS1Y4aFRKaklDR1FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTgwMzMzCWZpbGU6SW5zaWRlciBVbHRyYV8xLjAuODhfeDY0LXNldHVwLmV4ZQpOQW1qcDA3eTd1ZnRXNjJlQVNXN0RUVWRSZ0k5OXNUMzRtKzdNdjJYaWpsUC90QmpVdERFMnBvenJMRWZEdHJsNlU1MGFVUnowMzdqaXBrNmNUZkxDdz09Cg==",
-      "url": "https://raw.githubusercontent.com/UltraDevInsider/desktop-releases/5320857aac67bf83fbdf28868d4eab745cbc9f3f/Insider-Ultra-x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZVZpcU96SlliTHY4KzI5YldTdnJiUCtkU3poRDMzTXgwSFhNcGVYZW1JaWZKb2ZkSUhWbXd4WkVDdlBiWjhqUWZDSy9BWjVsa2p0OW9SbFZJa3ExbVVPdVRZLzZNUmcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjAyNzYyCWZpbGU6SW5zaWRlciBVbHRyYV8xLjAuODlfeDY0LXNldHVwLmV4ZQprQnFWYk1tWHgxeGNsTU9TN0h2dXFkbkRZa2RkYk00WFRSZVp0Y3JpTzBkYjV4R2xsVUlsQjkxYjJQU3h2enJIb00xK096VGsxK1pMUmVCM0dWbUNDdz09Cg==",
+      "url": "https://raw.githubusercontent.com/UltraDevInsider/desktop-releases/88de4f564e5ee9c7efba1d16a0a70efd38780bca/Insider-Ultra-x64-setup.exe"
     }
   }
 }
