@@ -1,11 +1,11 @@
 {
-  "version": "1.0.90",
-  "notes": "Vers\u00e3o 1.0.90: gr\u00e1fico novo (m\u00e9dias por tr\u00e1s dos candles, igual ao terminal das corretoras) e barra de status do terminal no Terminal Pro.",
-  "pub_date": "2026-10-28T17:35:09.000Z",
+  "version": "1.0.91",
+  "notes": "Vers\u00e3o 1.0.91: com dois gr\u00e1ficos na tela, cada bot\u00e3o age no gr\u00e1fico clicado; compra e venda pelo gr\u00e1fico saem s\u00f3 pela boleta daquele gr\u00e1fico; parcial pelo x da posi\u00e7\u00e3o volta a funcionar; Shift/Alt no gr\u00e1fico leva o stop e o alvo da boleta nova; Caixa de Ferramentas com per\u00edodo personalizado e total; quadro Performance do dia.",
+  "pub_date": "2026-10-28T20:56:40.000Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZVZpcU96SlliTGpxTzFtN1FSTEVpa2ZYSnhraU41QTg0SndVSUVDOHpmTmFNMFpWWDkrUjRBZXpJVEdLZlJwVFM5TzhEczRGWVpxdFg3NHhjZmZZZ254YjJINzZVeEEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjA4NjA4CWZpbGU6SW5zaWRlciBVbHRyYV8xLjAuOTBfeDY0LXNldHVwLmV4ZQpRQkMxaEtoa1o5aXFpazN4K0Z3WU1GK1VqZ0JzU3lUS3FlaXVtdWZpcmRNU1UydEk5YmlmWEd2cU81VitSVmZrYjUybDBCNEhqU1ptelFhdnJwL09EZz09Cg==",
-      "url": "https://raw.githubusercontent.com/UltraDevInsider/desktop-releases/539f7eceeec97ccc5a04a7ded261892d8c125a2a/Insider-Ultra-x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZVZpcU96SlliTHRub3VsSC9NV1V2YndtWFZnR2dIV3dnWU9TYmpKSXpMSW11V044NzR6U3V6N09RclhaanRNeEFwTzNLT1RLVVI3RTNMRHZDU0FleTk3b2xFSkU1MFFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjIwMzc5CWZpbGU6SW5zaWRlciBVbHRyYV8xLjAuOTFfeDY0LXNldHVwLmV4ZQozaVVmWmwwZmtQUnY2ekxJTE1hdUUzVzhGQitvMFRSeVlKUjJSZDlmeFRVQWJSYXRQWHN0ekJWNUFrUzJIVlYzbExrc1c5bS93U0RkSVZVZnlEQ1pCUT09Cg==",
+      "url": "https://raw.githubusercontent.com/UltraDevInsider/desktop-releases/b6bbd4029b7a2ac86b78194735bb35a605fb4490/Insider-Ultra-x64-setup.exe"
     }
   }
 }
