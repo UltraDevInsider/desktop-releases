@@ -1,11 +1,11 @@
 {
-  "version": "1.0.91",
-  "notes": "Vers\u00e3o 1.0.91: com dois gr\u00e1ficos na tela, cada bot\u00e3o age no gr\u00e1fico clicado; compra e venda pelo gr\u00e1fico saem s\u00f3 pela boleta daquele gr\u00e1fico; parcial pelo x da posi\u00e7\u00e3o volta a funcionar; Shift/Alt no gr\u00e1fico leva o stop e o alvo da boleta nova; Caixa de Ferramentas com per\u00edodo personalizado e total; quadro Performance do dia.",
-  "pub_date": "2026-10-28T20:56:40.000Z",
+  "version": "1.0.92",
+  "notes": "Vers\u00e3o 1.0.92: pe\u00e7as do terminal das corretoras em todos os temas (gr\u00e1fico, not\u00edcias, \u00edcones dos ativos, Indicadores, busca ao digitar, bot\u00e3o direito com Zerar e Cancelar, menu Estudos), janela de Propriedades (F8) com cores e escala fixa, Relat\u00f3rio de Performance e Disciplina do Trader.",
+  "pub_date": "2026-10-29T00:26:02.000Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZVZpcU96SlliTHRub3VsSC9NV1V2YndtWFZnR2dIV3dnWU9TYmpKSXpMSW11V044NzR6U3V6N09RclhaanRNeEFwTzNLT1RLVVI3RTNMRHZDU0FleTk3b2xFSkU1MFFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjIwMzc5CWZpbGU6SW5zaWRlciBVbHRyYV8xLjAuOTFfeDY0LXNldHVwLmV4ZQozaVVmWmwwZmtQUnY2ekxJTE1hdUUzVzhGQitvMFRSeVlKUjJSZDlmeFRVQWJSYXRQWHN0ekJWNUFrUzJIVlYzbExrc1c5bS93U0RkSVZVZnlEQ1pCUT09Cg==",
-      "url": "https://raw.githubusercontent.com/UltraDevInsider/desktop-releases/b6bbd4029b7a2ac86b78194735bb35a605fb4490/Insider-Ultra-x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZVZpcU96SlliTG1wd1NLeUdZdFo5KzdOVjM5dG5lOWJoU080MWxTRUIrTnhvNDAxc1FNUjRra01tSUMwQ1Yra3I2L3lYRm9vTGVrNTlubVp6cnVjTTlxSXRIZW80WndFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjMzMzkwCWZpbGU6SW5zaWRlciBVbHRyYV8xLjAuOTJfeDY0LXNldHVwLmV4ZQpJRkt5emFVNlVuazQyWmtwdWlQZDQxckxaekt4WkZhQ1pZaC8rKzd5TnhNbVdpS2dMbmxITEZrWGxVajdHajNKdU1VWlFqQjNNUlpsMUpKT1hzRk5CQT09Cg==",
+      "url": "https://raw.githubusercontent.com/UltraDevInsider/desktop-releases/b7332f92d2c0987b87666ced137b1229b9415df9/Insider-Ultra-x64-setup.exe"
     }
   }
 }

@@ -1,7 +1,7 @@
-Web source commit: 7afb301d5aa9a971b14a80e4d64b166e0c986d8a
-Desktop version: 1.0.91
-Desktop build commit: 7afb301d
+Web source commit: 9b78eb79d793dc3e0bbe0720bbda702710852be5
+Desktop version: 1.0.92
+Desktop build commit: 9b78eb79
 Authenticode: Valid; INSIDER INVEST SOLUCOES EDUCACIONAIS E FINANCEIRAS LTDA; timestamp DigiCert SHA256 RSA4096 Timestamp Responder 2026 1
 Updater signature: gerada com a chave de producao existente
-Installer SHA256: e261adcd49303abacddf4a72fb4d2a3c99dd3013203a330198ae0182f048b981
-Change: Versão 1.0.91: com dois gráficos na tela, cada botão age no gráfico clicado; compra e venda pelo gráfico saem só pela boleta daquele gráfico; parcial pelo x da posição volta a funcionar; Shift/Alt no gráfico leva o stop e o alvo da boleta nova; Caixa de Ferramentas com período personalizado e total; quadro Performance do dia.
+Installer SHA256: ef30c55acfc1147ad6a861ee0e261d31976f959c48de339df3cb6a061ea68836
+Change: Versão 1.0.92: peças do terminal das corretoras em todos os temas (gráfico, notícias, ícones dos ativos, Indicadores, busca ao digitar, botão direito com Zerar e Cancelar, menu Estudos), janela de Propriedades (F8) com cores e escala fixa, Relatório de Performance e Disciplina do Trader.
