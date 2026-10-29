@@ -1,11 +1,11 @@
 {
-  "version": "1.0.96",
-  "notes": "Vers\u00e3o 1.0.96: celular igual ao app Pro, janela Propriedades nos desenhos, tipos de gr\u00e1fico do terminal, plataforma mais leve (\u00edcones guardados, cota\u00e7\u00e3o s\u00f3 na linha que mudou, gr\u00e1fico mais leve a cada pre\u00e7o), menos travadinhas, perguntas dentro da plataforma no lugar das janelas do Windows e o motivo de cada queda de conex\u00e3o.",
-  "pub_date": "2026-10-29T21:52:54.000Z",
+  "version": "1.0.97",
+  "notes": "Vers\u00e3o 1.0.97: o ping da barra passa a medir at\u00e9 o servidor de acesso, como no MetaTrader 5 (no Brasil, cerca de 12 ms pelo servidor de S\u00e3o Paulo); o tempo at\u00e9 as ordens aparece ao passar o mouse. Traz tudo da 1.0.96.",
+  "pub_date": "2026-10-29T22:54:24.000Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZVZpcU96SlliTGtGNWQ1TUt5R3FIZlUzVWZMMWh1eFNMWjRZSFhNc0hxTkphREJJNm9Ld243TnJaT0Fxb3VUaVRhTWwwdlVJZHFoZlExelZOcXNYZHRMdFJDV21CV1E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzEwNzUzCWZpbGU6SW5zaWRlciBVbHRyYV8xLjAuOTZfeDY0LXNldHVwLmV4ZQpPMGluYXlCcmxYTEIzT3VqUEp1ZFYrSnBVSmJVenNtZVA2QlRjZnVETENBQk1ucmk4RTd6c1lmbnBSMVZtczBtNFRaWFcvVjhNdUFkeWVJbUVCaElDQT09Cg==",
-      "url": "https://raw.githubusercontent.com/UltraDevInsider/desktop-releases/d518e60b3945f7cb24352f8deb94912ca7c79f4d/Insider-Ultra-x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZVZpcU96SlliTHErZ1FOVkk3UkZVdFZNVWdHelN3alE0cU04M05sbC96NitmMWF2azFZdko5akEyZHhkVFJkdXNJOC9yWjV0WDhDOWpJejFuaE9JOU16Ymd4NDQ5WkFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzE0NDQ0CWZpbGU6SW5zaWRlciBVbHRyYV8xLjAuOTdfeDY0LXNldHVwLmV4ZQpSamovODloZE5xVnlheFNJaGpEdWsxTGh4bXphSzF0NFNtakZPYzNkUzNoWFhaU3FMTVhtdERJaUczM2gvSG1BREZuSDljaCtvN2dLZzg5ZmZ1QWdEdz09Cg==",
+      "url": "https://raw.githubusercontent.com/UltraDevInsider/desktop-releases/03cf5c209db7a91344b06906f79c6c4e9ba7e7a1/Insider-Ultra-x64-setup.exe"
     }
   }
 }

@@ -1,7 +1,7 @@
-Web source commit: 21d2e4110606aac3a48b535986873b38c2e5bdcc
-Desktop version: 1.0.96
-Desktop build commit: 21d2e411
+Web source commit: 98e16e43375df73cfd4fcdc27de1768cd7786d4c
+Desktop version: 1.0.97
+Desktop build commit: 98e16e43
 Authenticode: Valid; INSIDER INVEST SOLUCOES EDUCACIONAIS E FINANCEIRAS LTDA; timestamp DigiCert SHA256 RSA4096 Timestamp Responder 2026 1
 Updater signature: gerada com a chave de producao existente
-Installer SHA256: d785e2635f8d009b56912814850e5d2db733cd71b47deb5850af50b936a03cbd
-Change: Versão 1.0.96: celular igual ao app Pro, janela Propriedades nos desenhos, tipos de gráfico do terminal, plataforma mais leve (ícones guardados, cotação só na linha que mudou, gráfico mais leve a cada preço), menos travadinhas, perguntas dentro da plataforma no lugar das janelas do Windows e o motivo de cada queda de conexão.
+Installer SHA256: a149108d9494ab6b44427548ffb1be8aa364748522ce1e5619bb348f0bd6f0eb
+Change: Versão 1.0.97: o ping da barra passa a medir até o servidor de acesso, como no MetaTrader 5 (no Brasil, cerca de 12 ms pelo servidor de São Paulo); o tempo até as ordens aparece ao passar o mouse. Traz tudo da 1.0.96.
