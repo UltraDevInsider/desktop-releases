@@ -1,11 +1,11 @@
 {
-  "version": "1.0.95",
-  "notes": "Vers\u00e3o 1.0.95: tela mais leve, sem as travadinhas do gr\u00e1fico (linhas da Disciplina, Performance do dia, tabela de posi\u00e7\u00f5es e livro de ofertas no gr\u00e1fico). Traz tudo da 1.0.94.",
-  "pub_date": "2026-10-29T12:38:39.000Z",
+  "version": "1.0.96",
+  "notes": "Vers\u00e3o 1.0.96: celular igual ao app Pro, janela Propriedades nos desenhos, tipos de gr\u00e1fico do terminal, plataforma mais leve (\u00edcones guardados, cota\u00e7\u00e3o s\u00f3 na linha que mudou, gr\u00e1fico mais leve a cada pre\u00e7o), menos travadinhas, perguntas dentro da plataforma no lugar das janelas do Windows e o motivo de cada queda de conex\u00e3o.",
+  "pub_date": "2026-10-29T21:52:54.000Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZVZpcU96SlliTGhkRk1XZVF6cjdUY2M2WmZmeXdWcll6cTNrNDh5Q2NIQUpuelJiKzR1OUJjVno5S0VhNEJkYmpqTGtmNkRmNFg5aStTTVh3a0NvckZEcFJodGRrc1FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjc3NDk4CWZpbGU6SW5zaWRlciBVbHRyYV8xLjAuOTVfeDY0LXNldHVwLmV4ZQpNS1hvb0pNOUhYL3hKVmlwbE51RnFjUTMrNGNlQ0l4WmRDdmtXYVRjTDVmZGhZSUFQcUI3YmE4N01MYm5OU3dnOU9OdzM4eUV3WjRjaHBiemRDcUJDUT09Cg==",
-      "url": "https://raw.githubusercontent.com/UltraDevInsider/desktop-releases/288708b6279c3de5fd89d4f42b6cdb4f04bf97d6/Insider-Ultra-x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZVZpcU96SlliTGtGNWQ1TUt5R3FIZlUzVWZMMWh1eFNMWjRZSFhNc0hxTkphREJJNm9Ld243TnJaT0Fxb3VUaVRhTWwwdlVJZHFoZlExelZOcXNYZHRMdFJDV21CV1E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzEwNzUzCWZpbGU6SW5zaWRlciBVbHRyYV8xLjAuOTZfeDY0LXNldHVwLmV4ZQpPMGluYXlCcmxYTEIzT3VqUEp1ZFYrSnBVSmJVenNtZVA2QlRjZnVETENBQk1ucmk4RTd6c1lmbnBSMVZtczBtNFRaWFcvVjhNdUFkeWVJbUVCaElDQT09Cg==",
+      "url": "https://raw.githubusercontent.com/UltraDevInsider/desktop-releases/d518e60b3945f7cb24352f8deb94912ca7c79f4d/Insider-Ultra-x64-setup.exe"
     }
   }
 }
