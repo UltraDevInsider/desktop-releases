@@ -1,11 +1,11 @@
 {
-  "version": "1.0.92",
-  "notes": "Vers\u00e3o 1.0.92: pe\u00e7as do terminal das corretoras em todos os temas (gr\u00e1fico, not\u00edcias, \u00edcones dos ativos, Indicadores, busca ao digitar, bot\u00e3o direito com Zerar e Cancelar, menu Estudos), janela de Propriedades (F8) com cores e escala fixa, Relat\u00f3rio de Performance e Disciplina do Trader.",
-  "pub_date": "2026-10-29T00:26:02.000Z",
+  "version": "1.0.93",
+  "notes": "Vers\u00e3o 1.0.93: Disciplina do Trader conferida pelo servidor, not\u00edcias de todas as moedas no gr\u00e1fico, Caixa de mensagens com os avisos da mesa, menus da Tela cl\u00e1ssica iguais aos do Terminal Pro, Configurar indicador com os n\u00edveis, fundo do gr\u00e1fico separado por tema e caixa de ferramentas que sai da tela quando desmarcada.",
+  "pub_date": "2026-10-29T11:31:14.000Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZVZpcU96SlliTG1wd1NLeUdZdFo5KzdOVjM5dG5lOWJoU080MWxTRUIrTnhvNDAxc1FNUjRra01tSUMwQ1Yra3I2L3lYRm9vTGVrNTlubVp6cnVjTTlxSXRIZW80WndFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjMzMzkwCWZpbGU6SW5zaWRlciBVbHRyYV8xLjAuOTJfeDY0LXNldHVwLmV4ZQpJRkt5emFVNlVuazQyWmtwdWlQZDQxckxaekt4WkZhQ1pZaC8rKzd5TnhNbVdpS2dMbmxITEZrWGxVajdHajNKdU1VWlFqQjNNUlpsMUpKT1hzRk5CQT09Cg==",
-      "url": "https://raw.githubusercontent.com/UltraDevInsider/desktop-releases/b7332f92d2c0987b87666ced137b1229b9415df9/Insider-Ultra-x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZVZpcU96SlliTGtBQy9jeDFqekhLbG84Z0wwMllOT054R2RaUnRDbXM4WEt6ZXJMb3IrdElLeEJETDJjbzJkN3lseU9pWWMwVTFvTkhkZEo3WW5yTXorMno5S2NFdmdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjczNDU1CWZpbGU6SW5zaWRlciBVbHRyYV8xLjAuOTNfeDY0LXNldHVwLmV4ZQowOU1vaER6czBRMDBFakJwT25SOGs3RWFzSFFCKzVnNG5OdzJqNDFLM21oNVVoalNOQUhQMThuRkkzdEg0V0YrT1RCNTd2ZFIzUHkxK1NSU2JHczdBZz09Cg==",
+      "url": "https://raw.githubusercontent.com/UltraDevInsider/desktop-releases/8d013197be18dd90742c6c6776da24c592833f5b/Insider-Ultra-x64-setup.exe"
     }
   }
 }

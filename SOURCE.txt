@@ -1,7 +1,7 @@
-Web source commit: 9b78eb79d793dc3e0bbe0720bbda702710852be5
-Desktop version: 1.0.92
-Desktop build commit: 9b78eb79
+Web source commit: 2e04a5c86546551ab0160ad48c8ee4135fa5a418
+Desktop version: 1.0.93
+Desktop build commit: 2e04a5c8
 Authenticode: Valid; INSIDER INVEST SOLUCOES EDUCACIONAIS E FINANCEIRAS LTDA; timestamp DigiCert SHA256 RSA4096 Timestamp Responder 2026 1
 Updater signature: gerada com a chave de producao existente
-Installer SHA256: ef30c55acfc1147ad6a861ee0e261d31976f959c48de339df3cb6a061ea68836
-Change: Versão 1.0.92: peças do terminal das corretoras em todos os temas (gráfico, notícias, ícones dos ativos, Indicadores, busca ao digitar, botão direito com Zerar e Cancelar, menu Estudos), janela de Propriedades (F8) com cores e escala fixa, Relatório de Performance e Disciplina do Trader.
+Installer SHA256: a126262b02fc20148aa1f193d2509e2b7c7c6901ad707168b619e5ee978b8a97
+Change: Versão 1.0.93: Disciplina do Trader conferida pelo servidor, notícias de todas as moedas no gráfico, Caixa de mensagens com os avisos da mesa, menus da Tela clássica iguais aos do Terminal Pro, Configurar indicador com os níveis, fundo do gráfico separado por tema e caixa de ferramentas que sai da tela quando desmarcada.
