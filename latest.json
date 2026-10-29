@@ -1,11 +1,11 @@
 {
-  "version": "1.0.93",
-  "notes": "Vers\u00e3o 1.0.93: Disciplina do Trader conferida pelo servidor, not\u00edcias de todas as moedas no gr\u00e1fico, Caixa de mensagens com os avisos da mesa, menus da Tela cl\u00e1ssica iguais aos do Terminal Pro, Configurar indicador com os n\u00edveis, fundo do gr\u00e1fico separado por tema e caixa de ferramentas que sai da tela quando desmarcada.",
-  "pub_date": "2026-10-29T11:31:14.000Z",
+  "version": "1.0.94",
+  "notes": "Vers\u00e3o 1.0.94: corrige as travadinhas do gr\u00e1fico com desenhos antigos. Traz tudo da 1.0.93: Disciplina do Trader conferida pelo servidor, not\u00edcias de todas as moedas no gr\u00e1fico, Caixa de mensagens, menus da Tela cl\u00e1ssica iguais aos do Terminal Pro, Configurar indicador com os n\u00edveis e fundo do gr\u00e1fico separado por tema.",
+  "pub_date": "2026-10-29T11:57:27.000Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZVZpcU96SlliTGtBQy9jeDFqekhLbG84Z0wwMllOT054R2RaUnRDbXM4WEt6ZXJMb3IrdElLeEJETDJjbzJkN3lseU9pWWMwVTFvTkhkZEo3WW5yTXorMno5S2NFdmdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjczNDU1CWZpbGU6SW5zaWRlciBVbHRyYV8xLjAuOTNfeDY0LXNldHVwLmV4ZQowOU1vaER6czBRMDBFakJwT25SOGs3RWFzSFFCKzVnNG5OdzJqNDFLM21oNVVoalNOQUhQMThuRkkzdEg0V0YrT1RCNTd2ZFIzUHkxK1NSU2JHczdBZz09Cg==",
-      "url": "https://raw.githubusercontent.com/UltraDevInsider/desktop-releases/8d013197be18dd90742c6c6776da24c592833f5b/Insider-Ultra-x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZVZpcU96SlliTG1tWHhDdGx2a2JwUTZ5V3BBTmZCQ05DZldvdE5vT1dieXloWkFiS0dOMHFkcmJzYU1QeVU2TzZtOE54NmxvMzZPdXVrQm9OYWF4ZytLUmR3N3o3blFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjc1MDIzCWZpbGU6SW5zaWRlciBVbHRyYV8xLjAuOTRfeDY0LXNldHVwLmV4ZQo0bXI3WXVYZ0ptS2FQd3dUREVvL3IxWG16dGNFbkxlR09QeTFoMTZTbGNGSUI2RmNMNjQvNG9pNGZmUHJ6L1lQNzB2eVlpS3ZCTGxUK2p6WlhxdnlDZz09Cg==",
+      "url": "https://raw.githubusercontent.com/UltraDevInsider/desktop-releases/dd76c71292e7769d88ffddf666597ada7eb7b7d2/Insider-Ultra-x64-setup.exe"
     }
   }
 }

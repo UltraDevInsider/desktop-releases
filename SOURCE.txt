@@ -1,7 +1,7 @@
-Web source commit: 2e04a5c86546551ab0160ad48c8ee4135fa5a418
-Desktop version: 1.0.93
-Desktop build commit: 2e04a5c8
+Web source commit: 7d262ecb23e9d1fade557ccbff017badf4bff790
+Desktop version: 1.0.94
+Desktop build commit: 7d262ecb
 Authenticode: Valid; INSIDER INVEST SOLUCOES EDUCACIONAIS E FINANCEIRAS LTDA; timestamp DigiCert SHA256 RSA4096 Timestamp Responder 2026 1
 Updater signature: gerada com a chave de producao existente
-Installer SHA256: a126262b02fc20148aa1f193d2509e2b7c7c6901ad707168b619e5ee978b8a97
-Change: Versão 1.0.93: Disciplina do Trader conferida pelo servidor, notícias de todas as moedas no gráfico, Caixa de mensagens com os avisos da mesa, menus da Tela clássica iguais aos do Terminal Pro, Configurar indicador com os níveis, fundo do gráfico separado por tema e caixa de ferramentas que sai da tela quando desmarcada.
+Installer SHA256: 6359f84ec950a37da0f6999760465725c028329a579bb44fccfd98957e24c118
+Change: Versão 1.0.94: corrige as travadinhas do gráfico com desenhos antigos. Traz tudo da 1.0.93: Disciplina do Trader conferida pelo servidor, notícias de todas as moedas no gráfico, Caixa de mensagens, menus da Tela clássica iguais aos do Terminal Pro, Configurar indicador com os níveis e fundo do gráfico separado por tema.
