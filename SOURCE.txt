@@ -1,7 +1,7 @@
-Web source commit: 98e16e43375df73cfd4fcdc27de1768cd7786d4c
-Desktop version: 1.0.97
-Desktop build commit: 98e16e43
+Web source commit: 7c598399e616f17bc51bfbdaf4ae7bb5d3acab46
+Desktop version: 1.0.98
+Desktop build commit: 7c598399
 Authenticode: Valid; INSIDER INVEST SOLUCOES EDUCACIONAIS E FINANCEIRAS LTDA; timestamp DigiCert SHA256 RSA4096 Timestamp Responder 2026 1
 Updater signature: gerada com a chave de producao existente
-Installer SHA256: a149108d9494ab6b44427548ffb1be8aa364748522ce1e5619bb348f0bd6f0eb
-Change: Versão 1.0.97: o ping da barra passa a medir até o servidor de acesso, como no MetaTrader 5 (no Brasil, cerca de 12 ms pelo servidor de São Paulo); o tempo até as ordens aparece ao passar o mouse. Traz tudo da 1.0.96.
+Installer SHA256: b42432bb467453e3215e3e06e8eae4284c37bfba1bddef52a16d1ae82aa49d0b
+Change: Painel de operacoes sem pedidos a cada tique; grafico do Bra50 e etiquetas em dolar como na Web; lista de contas completa.

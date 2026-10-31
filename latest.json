@@ -1,11 +1,11 @@
 {
-  "version": "1.0.97",
-  "notes": "Vers\u00e3o 1.0.97: o ping da barra passa a medir at\u00e9 o servidor de acesso, como no MetaTrader 5 (no Brasil, cerca de 12 ms pelo servidor de S\u00e3o Paulo); o tempo at\u00e9 as ordens aparece ao passar o mouse. Traz tudo da 1.0.96.",
-  "pub_date": "2026-10-29T22:54:24.000Z",
+  "version": "1.0.98",
+  "notes": "Painel de operacoes sem pedidos a cada tique; grafico do Bra50 e etiquetas em dolar como na Web; lista de contas completa.",
+  "pub_date": "2026-10-31T00:10:22.000Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZVZpcU96SlliTHErZ1FOVkk3UkZVdFZNVWdHelN3alE0cU04M05sbC96NitmMWF2azFZdko5akEyZHhkVFJkdXNJOC9yWjV0WDhDOWpJejFuaE9JOU16Ymd4NDQ5WkFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzE0NDQ0CWZpbGU6SW5zaWRlciBVbHRyYV8xLjAuOTdfeDY0LXNldHVwLmV4ZQpSamovODloZE5xVnlheFNJaGpEdWsxTGh4bXphSzF0NFNtakZPYzNkUzNoWFhaU3FMTVhtdERJaUczM2gvSG1BREZuSDljaCtvN2dLZzg5ZmZ1QWdEdz09Cg==",
-      "url": "https://raw.githubusercontent.com/UltraDevInsider/desktop-releases/03cf5c209db7a91344b06906f79c6c4e9ba7e7a1/Insider-Ultra-x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZVZpcU96SlliTHNkR1R4ZjlXdnlueGw2bWZRUlp6M1ZVc1pkV1NnMnBiSUxvaFlCNWVFa1JIOGlWMWMxelArRUIyU1R6UzVsdFV6R2hEd2pNeTlWZnlKVkU4M3V5MHc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDA1NDE5CWZpbGU6SW5zaWRlciBVbHRyYV8xLjAuOThfeDY0LXNldHVwLmV4ZQorQmhIQXNDa1NITEl4eXFiTFJaajIvS2oyeXNNeVJ6UW5uNkc0S3dWbDViYlB3WjFtbEJrV3FMem1aT3BKSGtLbXlLNitWR0MvdGM4V1BhaVFkMzdCdz09Cg==",
+      "url": "https://raw.githubusercontent.com/UltraDevInsider/desktop-releases/d7919dea0d4ae403612e0930dd3748b4b0787d5d/Insider-Ultra-x64-setup.exe"
     }
   }
 }
