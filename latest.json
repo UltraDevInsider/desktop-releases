@@ -1,11 +1,11 @@
 {
-  "version": "1.1.2",
-  "notes": "Painel de operacoes sem pedidos a cada tique; grafico do Bra50 e etiquetas em dolar como na Web; lista de contas completa.",
-  "pub_date": "2026-11-05T12:09:30.000Z",
+  "version": "1.1.3",
+  "notes": "Som dos avisos sem travar a tela.",
+  "pub_date": "2026-11-08T20:29:49.000Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZVZpcU96SlliTG0zOHdKM2UyekFGcjd5WXZEbXdJNG8vWElDdi9Oc1k4Wlorby9uQnFEaDBoUURoWHllSWRST1QxVEQ4MjJWMnZ4YVg2V01KYThVTVlMbWhsUzJIVFFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODgwNTMxCWZpbGU6SW5zaWRlciBVbHRyYV8xLjEuMl94NjQtc2V0dXAuZXhlCkdOcmVoRDlybnZrcllUcjNsUzNQamdzbkU4empvM0twSS92RmRBN1lhTzNaRHA1aE9yalR0VTczTENaclhDekk1TTJMMm0zMS9nakl0WXE4RHpwNUR3PT0K",
-      "url": "https://raw.githubusercontent.com/UltraDevInsider/desktop-releases/7af2992065462a03d26087026ca18640ea3e7cc2/Insider-Ultra-x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZVZpcU96SlliTG5sVHhJVFZaQlZKTVFXdUMwS092UUlNQWRtZHZVUDdDNmt4amI3ZmU5akEvS2hlbHMvUS9LZUJGV0VaRzFVeElSS1JZdWNPU3drSU5QWG45My8yS0FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTY5NzY2CWZpbGU6SW5zaWRlciBVbHRyYV8xLjEuM194NjQtc2V0dXAuZXhlCnFSMWtaVmR4aWxnYlVxSGE5ZURoMDdXSGt0d2VlTlhseFcweVFuaXV2MktuaEZSdU1lc3JNTVhSaU16MkFTM1Y3RFFLQjI0dGJvQXhmODFvRTRVN0RBPT0K",
+      "url": "https://raw.githubusercontent.com/UltraDevInsider/desktop-releases/a479e2e0fee72d7843ce0139f4f1ee903ab0542f/Insider-Ultra-x64-setup.exe"
     }
   }
 }
