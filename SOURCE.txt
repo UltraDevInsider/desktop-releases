@@ -1,7 +1,7 @@
-Web source commit: 6f80c5fcb2a69812d8b1bc237add33136e725967
-Desktop version: 1.1.4
-Desktop build commit: 6f80c5fc
+Web source commit: 388ad3967556e2149d9944e46f1c65099f27e14a
+Desktop version: 1.1.5
+Desktop build commit: 388ad396
 Authenticode: Valid; INSIDER INVEST SOLUCOES EDUCACIONAIS E FINANCEIRAS LTDA; timestamp DigiCert SHA256 RSA4096 Timestamp Responder 2026 1
 Updater signature: gerada com a chave de producao existente
-Installer SHA256: aa71ff8836728255c0854e55cda5b2e13c57f3756f6592323124b7d5333e0188
-Change: Outros tempos no gráfico do celular; mesas e pré-análise (desligadas); fluidez do gráfico e da tela das corretoras.
+Installer SHA256: 2a6716721db413ddb055dbdc196263947e9238f9a8686f2b10552fda4d8270c6
+Change: Posição encerrada não fica presa na tela; quantidade da boleta do celular se digita; câmbio sem travar o servidor.
