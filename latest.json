@@ -1,11 +1,11 @@
 {
-  "version": "1.1.6",
-  "notes": "Calculadora pelo plano e pela margem; rodinha arrasta o gr\u00e1fico; pre\u00e7o m\u00e9dio ajustado; aviso perto da pausa; servidor sem travadas.",
-  "pub_date": "2026-11-09T23:08:42.000Z",
+  "version": "1.1.7",
+  "notes": "Gr\u00e1fico: Ctrl+roda sem tremer e a roda afasta da r\u00e9gua do pre\u00e7o; pre\u00e7o m\u00e9dio igual na Caixa de Ferramentas, no gr\u00e1fico e na boleta; risco por trade n\u00e3o zera ao trocar % e US$; desfazer e refazer desenhos (Ctrl+Z e Ctrl+Y); not\u00edcias com Proje\u00e7\u00e3o, Anterior e Atual; corre\u00e7\u00f5es da lista de pend\u00eancias de 09/11.",
+  "pub_date": "2026-11-10T20:22:12.000Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZVZpcU96SlliTGc2eWUvM2VvRldMdGg1QWI0bGNDdXRiSWl5K0svcUtpay9iUXkvWWxHaDJoMkU4bWFidDg0TVJ6MGhHVDZuUU05ZURwbnBYL3hZakVVa1FGNHJMMGdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjY1NzAxCWZpbGU6SW5zaWRlciBVbHRyYV8xLjEuNl94NjQtc2V0dXAuZXhlCjd3RXpFMFFudmc0QlJnU3ZrODZIVHpNRG1OUXVSenk0MXpNZDYwWFRzNVgraFJObVEwY3UrUjBWTW1DWlpSREVIN2xJOUVyZktTcTVlVTZqbWxlTEFRPT0K",
-      "url": "https://raw.githubusercontent.com/UltraDevInsider/desktop-releases/c99356bcba6141b6074ee8c514145e31e20703f2/Insider-Ultra-x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZVZpcU96SlliTGhvWlQ3czJYNmVzOVVRQjdyRXQxWG93dS9CdC9rY0xKU2J6RWo0WUpxdUF3aVFsSk1Ecy9wdFlwenRlbkkybmQ2Z1lLeDN6UzJhY3h5amwvWENrYXdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzQwNDkzCWZpbGU6SW5zaWRlciBVbHRyYV8xLjEuN194NjQtc2V0dXAuZXhlCkdTcGVuMVNOaGVvcWpoSHhsQ3o5N2xoVnAxa2lQcXJlcTlNc2IxSjNXYU1IVUNnTjdzamlMNitFRHVzZDM2WnoxMUgyOFdsQUJOSU8yVDJ4YlZJRERnPT0K",
+      "url": "https://raw.githubusercontent.com/UltraDevInsider/desktop-releases/56540a0c6465db8651bbf62554778b24e40263eb/Insider-Ultra-x64-setup.exe"
     }
   }
 }

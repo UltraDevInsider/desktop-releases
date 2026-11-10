@@ -1,7 +1,7 @@
-Web source commit: 83eafc6a732b263841defbc8294dbe3438de0666
-Desktop version: 1.1.6
-Desktop build commit: 83eafc6a
+Web source commit: 6144a25dec8c38ec85d304fd82f0bd59a2d88d5f
+Desktop version: 1.1.7
+Desktop build commit: 6144a25d
 Authenticode: Valid; INSIDER INVEST SOLUCOES EDUCACIONAIS E FINANCEIRAS LTDA; timestamp DigiCert SHA256 RSA4096 Timestamp Responder 2026 1
 Updater signature: gerada com a chave de producao existente
-Installer SHA256: 66d0a9fdc82f871d6c94a50171f91b3df137ff92b0efff38366e5bbba59f8a16
-Change: Calculadora pelo plano e pela margem; rodinha arrasta o gráfico; preço médio ajustado; aviso perto da pausa; servidor sem travadas.
+Installer SHA256: 8b49f8392d451d15f223cd7b03d286b0e429f96b9845f5d3bacf2b5df38eb219
+Change: Gráfico: Ctrl+roda sem tremer e a roda afasta da régua do preço; preço médio igual na Caixa de Ferramentas, no gráfico e na boleta; risco por trade não zera ao trocar % e US$; desfazer e refazer desenhos (Ctrl+Z e Ctrl+Y); notícias com Projeção, Anterior e Atual; correções da lista de pendências de 09/11.
