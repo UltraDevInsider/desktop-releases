@@ -1,7 +1,7 @@
-Web source commit: 6144a25dec8c38ec85d304fd82f0bd59a2d88d5f
-Desktop version: 1.1.7
-Desktop build commit: 6144a25d
+Web source commit: f933d1095d5b003d236336035d92b6dd8f1c9f8b
+Desktop version: 1.1.8
+Desktop build commit: f933d109
 Authenticode: Valid; INSIDER INVEST SOLUCOES EDUCACIONAIS E FINANCEIRAS LTDA; timestamp DigiCert SHA256 RSA4096 Timestamp Responder 2026 1
 Updater signature: gerada com a chave de producao existente
-Installer SHA256: 8b49f8392d451d15f223cd7b03d286b0e429f96b9845f5d3bacf2b5df38eb219
-Change: Gráfico: Ctrl+roda sem tremer e a roda afasta da régua do preço; preço médio igual na Caixa de Ferramentas, no gráfico e na boleta; risco por trade não zera ao trocar % e US$; desfazer e refazer desenhos (Ctrl+Z e Ctrl+Y); notícias com Projeção, Anterior e Atual; correções da lista de pendências de 09/11.
+Installer SHA256: f8700d187694e6bbeddd7a58cef602db548675d39a9856ed7ba24c6dfc1190d0
+Change: Painel de operacoes sem pedidos a cada tique; grafico do Bra50 e etiquetas em dolar como na Web; lista de contas completa.
