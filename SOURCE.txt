@@ -1,7 +1,7 @@
-Web source commit: d0fce7d569e8ba1601ddabb058acaf2d7ca6a17d
-Desktop version: 1.1.10
-Desktop build commit: d0fce7d5
+Web source commit: da8ab4ef686be1d1afe08fc364fab607f4dd46f1
+Desktop version: 1.1.11
+Desktop build commit: da8ab4ef
 Authenticode: Valid; INSIDER INVEST SOLUCOES EDUCACIONAIS E FINANCEIRAS LTDA; timestamp DigiCert SHA256 RSA4096 Timestamp Responder 2026 1
 Updater signature: gerada com a chave de producao existente
-Installer SHA256: 7f020f0b0164ff0541517f3ab38bba240225528e9591874c611733b397ce2cd3
+Installer SHA256: 39375575627f9e68107e37876396b3426a86b900ecfee45d8bf879768c0653e9
 Change: Painel de operacoes sem pedidos a cada tique; grafico do Bra50 e etiquetas em dolar como na Web; lista de contas completa.
