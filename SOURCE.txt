@@ -1,7 +1,7 @@
-Web source commit: 75e81a2e7e057d9073eb6429a1a1c5a91857bff2
-Desktop version: 1.1.15
-Desktop build commit: 75e81a2e
+Web source commit: aeddd5d88f3f14c80e7e789339eb08e4ea0f6461
+Desktop version: 1.1.17
+Desktop build commit: aeddd5d8
 Authenticode: Valid; INSIDER INVEST SOLUCOES EDUCACIONAIS E FINANCEIRAS LTDA; timestamp DigiCert SHA256 RSA4096 Timestamp Responder 2026 1
 Updater signature: gerada com a chave de producao existente
-Installer SHA256: 0f3219608ca3d7c1d1561aca353588681c1745a8173bdb6d86d7a722e87ed731
-Change: Contrato da conta financiada com assinatura eletrônica, certificado de aprovação, robô do trader, marca Ultra com a mesa dentro e loja que se reconecta sozinha.
+Installer SHA256: 045a10a54ba59c8e3b41234935d9d69c846b6c32d067dbe3c18ceb87b5ad0cb0
+Change: Marca Insider powered by ULTRA em todas as telas, barra do Terminal Pro, botões do gráfico no celular abaixo do cabeçalho e Pedir saque em Negociação.

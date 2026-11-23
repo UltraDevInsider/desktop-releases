@@ -1,11 +1,11 @@
 {
-  "version": "1.1.15",
-  "notes": "Contrato da conta financiada com assinatura eletr\u00f4nica, certificado de aprova\u00e7\u00e3o, rob\u00f4 do trader, marca Ultra com a mesa dentro e loja que se reconecta sozinha.",
-  "pub_date": "2026-11-19T11:14:38.000Z",
+  "version": "1.1.17",
+  "notes": "Marca Insider powered by ULTRA em todas as telas, barra do Terminal Pro, bot\u00f5es do gr\u00e1fico no celular abaixo do cabe\u00e7alho e Pedir saque em Negocia\u00e7\u00e3o.",
+  "pub_date": "2026-11-23T14:40:10.000Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZVZpcU96SlliTHFUd0dSdXI1VUIrNVZRQzUyZXRVblBDbkwyWWcrcTVSTHlBRGozOURvWEhEeThhOGVJRFBHT29hbFBDUHhnR3M0VUNjV0R4ZzR1RUVJQUtqcVRPaXdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDg2ODE5CWZpbGU6SW5zaWRlciBVbHRyYV8xLjEuMTVfeDY0LXNldHVwLmV4ZQoyTlBETVZOSjVEcFdCL3VoVjhQMTRIdmhQdXlCUFNQaHJOc21Ba1ZKNm5UN3Q5blBCQnZxYTU0enkwSTZvSHNYdkpURkt5MUZhbEZKWWRGQjRKVHJCdz09Cg==",
-      "url": "https://raw.githubusercontent.com/UltraDevInsider/desktop-releases/38bc15aa8b3acba7754bbe739a48b29ba8fa3c10/Insider-Ultra-x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZVZpcU96SlliTHFGOWxWSTM2dG9WOWY5SjNBdTh3dkROSTZTZW1SSnVUYmRlRktaTXRZZlJWRW9nQjF5cnRHL1VBU3RBMFFnSVBVSEt6bGhYemZpUzNEVERCWkZOY0FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDQ0Mzk2CWZpbGU6SW5zaWRlciBVbHRyYV8xLjEuMTdfeDY0LXNldHVwLmV4ZQp2dldoSy8raGZRRWtKWTdVS3ZqS2l1bFJkc0JSUGJMQUhRMDdac0hHVlEySVpGUEJQbVNRWncraUpBL1M4WUtkYkRUSW9iSS8vSDF4STA1ZVRTK2FBQT09Cg==",
+      "url": "https://raw.githubusercontent.com/UltraDevInsider/desktop-releases/c8aabb6d34342c0e3f4a6947a5f390709fb2df34/Insider-Ultra-x64-setup.exe"
     }
   }
 }
