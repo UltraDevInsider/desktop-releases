@@ -1,7 +1,7 @@
-Web source commit: aeddd5d88f3f14c80e7e789339eb08e4ea0f6461
-Desktop version: 1.1.17
-Desktop build commit: aeddd5d8
+Web source commit: a1ba5f06be2febfe2a312db98dcc3b160ae5bcbc
+Desktop version: 1.1.18
+Desktop build commit: a1ba5f06
 Authenticode: Valid; INSIDER INVEST SOLUCOES EDUCACIONAIS E FINANCEIRAS LTDA; timestamp DigiCert SHA256 RSA4096 Timestamp Responder 2026 1
 Updater signature: gerada com a chave de producao existente
-Installer SHA256: 045a10a54ba59c8e3b41234935d9d69c846b6c32d067dbe3c18ceb87b5ad0cb0
-Change: Marca Insider powered by ULTRA em todas as telas, barra do Terminal Pro, botões do gráfico no celular abaixo do cabeçalho e Pedir saque em Negociação.
+Installer SHA256: 24f90c9f8d6c1b4479d5a9b549432a62c69d677af2a7a975c731c93284f80581
+Change: Marca powered by ULTRA no programa de computador, demonstração da Ultra sem a marca da Insider e Ocultar tudo mantendo os ativos com posição ou ordem aberta.

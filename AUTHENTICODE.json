@@ -1,9 +1,9 @@
 {
-  "version": "1.1.17",
+  "version": "1.1.18",
   "status": "Valid",
   "publisher": "CN=INSIDER INVEST SOLUCOES EDUCACIONAIS E FINANCEIRAS LTDA, O=INSIDER INVEST SOLUCOES EDUCACIONAIS E FINANCEIRAS LTDA, L=Belo Horizonte, S=Minas Gerais, C=BR",
   "thumbprint": "908746125C08D7C248EFAE2C86CC77E6E2189D75",
   "timestamp": "CN=DigiCert SHA256 RSA4096 Timestamp Responder 2026 1, O=\"DigiCert, Inc.\", C=US",
-  "sha256": "045a10a54ba59c8e3b41234935d9d69c846b6c32d067dbe3c18ceb87b5ad0cb0",
+  "sha256": "24f90c9f8d6c1b4479d5a9b549432a62c69d677af2a7a975c731c93284f80581",
   "updaterSignatureVerified": true
 }

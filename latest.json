@@ -1,11 +1,11 @@
 {
-  "version": "1.1.17",
-  "notes": "Marca Insider powered by ULTRA em todas as telas, barra do Terminal Pro, bot\u00f5es do gr\u00e1fico no celular abaixo do cabe\u00e7alho e Pedir saque em Negocia\u00e7\u00e3o.",
-  "pub_date": "2026-11-23T14:40:10.000Z",
+  "version": "1.1.18",
+  "notes": "Marca powered by ULTRA no programa de computador, demonstra\u00e7\u00e3o da Ultra sem a marca da Insider e Ocultar tudo mantendo os ativos com posi\u00e7\u00e3o ou ordem aberta.",
+  "pub_date": "2026-11-23T23:16:15.000Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZVZpcU96SlliTHFGOWxWSTM2dG9WOWY5SjNBdTh3dkROSTZTZW1SSnVUYmRlRktaTXRZZlJWRW9nQjF5cnRHL1VBU3RBMFFnSVBVSEt6bGhYemZpUzNEVERCWkZOY0FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDQ0Mzk2CWZpbGU6SW5zaWRlciBVbHRyYV8xLjEuMTdfeDY0LXNldHVwLmV4ZQp2dldoSy8raGZRRWtKWTdVS3ZqS2l1bFJkc0JSUGJMQUhRMDdac0hHVlEySVpGUEJQbVNRWncraUpBL1M4WUtkYkRUSW9iSS8vSDF4STA1ZVRTK2FBQT09Cg==",
-      "url": "https://raw.githubusercontent.com/UltraDevInsider/desktop-releases/c8aabb6d34342c0e3f4a6947a5f390709fb2df34/Insider-Ultra-x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZVZpcU96SlliTG5yTjR4UmJKZ1lMUmQ2aGNTcjB2R2o5bEdNNkhWTkU1YXdObHpWNDZtS3M3Q2hUMk95SGRXeEV6RHg3LzViaDQrQVlOSHRNUTJFWGxKUnlvVTh2bXdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDc1MzkyCWZpbGU6SW5zaWRlciBVbHRyYV8xLjEuMThfeDY0LXNldHVwLmV4ZQpwVzZaVGc5VXcrOXJWcGl6d2Q4WGN4WkFTYmxyeTRtdWFzTlY0TW1vcElQUlhWRGhBenkrWEdYc05Hdk9nNEsvc05adzNEOHo0ZnYzNTk2a0NJSjFBQT09Cg==",
+      "url": "https://raw.githubusercontent.com/UltraDevInsider/desktop-releases/26bb0bf1ee20cff274d45a4d220dd6238ebb5847/Insider-Ultra-x64-setup.exe"
     }
   }
 }
